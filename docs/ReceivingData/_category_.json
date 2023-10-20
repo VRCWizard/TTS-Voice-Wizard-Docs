@@ -1,0 +1,8 @@
+{
+  "label": "Receiving Data",
+  "position": 7,
+  "link": {
+    "type": "generated-index",
+    "description": "Learn about how TTS Voice Wizard receives data from multiple sources"
+  }
+}

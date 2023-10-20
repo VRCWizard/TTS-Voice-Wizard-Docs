@@ -1,0 +1,8 @@
+{
+  "label": "Speech Recognition Methods",
+  "position": 8,
+  "link": {
+    "type": "generated-index",
+    "description": "Speech-to-Text methods are selected in the 'Settings' tab under 'Audio'"
+  }
+}
