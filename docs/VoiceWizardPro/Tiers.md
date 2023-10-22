@@ -33,3 +33,10 @@ The "Enchanter" tier does not give TTS characters via the Voice Wizard Pro API (
 | Archmage| $50 |  2,000,000 | 1,000,000 | 25 | low |
 | Deity | $100 | 4,000,000 | 2,000,000 | 50 | low |
 
+
+
+:::note
+Selecting a higher tier/ upgrading will automatically reset your usage.
+
+If you downgrade or select a lower tier(before the end of your month) you will need to make a help request in discord to have your usage reset manually.
+:::

@@ -17,7 +17,7 @@ sidebar_position: 2
 
 - Each of these methods require some sort of setup (except system speech). Click the name of the Speech-to-Text method to take you to its respective wiki page for more information.
 
-
+## STT Methods List
 | Speech-to-Text Method  | Description | Free Pricing | Continuous |
 | ------------- | ------------- | ------------- | ------------- |
 | [System Speech](https://github.com/VRCWizard/TTS-Voice-Wizard/wiki/System-Speech) | This method is the default and has the **worst recognition quality**. Although it can improved with [training](https://www.thewindowsclub.com/windows-speech-recognition-voice-training) and [editing the speech dictionary](https://www.tenforums.com/tutorials/120879-add-delete-prevent-edit-speech-dictionary-words-windows-10-a.html)  | Unlimited | yes |

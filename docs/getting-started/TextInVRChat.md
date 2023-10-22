@@ -29,7 +29,7 @@ sidebar_position: 5
     - Make sure to turn on "Send Text to VRChat with KAT" in TTSVoiceWizard Settings > Text Output 
     - If it isn't working after uploading your avatar, you may have to delete your %appdata%..\LocalLow\VRChat\OSC files when re-uploading an avatar with new parameters
     - If you would like to add more functionality to Killfrenzy Avatar Text. [Frosty's Billboard](https://github.com/Frosty704/Billboard) is a KillFrenzy Avatar Text addon, it adds more functionality to the KAT such as making KAT grabbable and poseable. 
-    ![VRChat_1920x1080_2022-08-20_16-26-38 130](https://user-images.githubusercontent.com/101527472/185766796-7ff16a81-a00b-42f2-8340-29e85e1387fe.png)
+    ![Frosty Gif](https://user-images.githubusercontent.com/36753686/236354712-a617f28c-75c1-4591-86de-860f6feb9fcc.gif)
 
 **You CAN NOT run TTS Voice Wizard with the KatOSCApp because the KatOSCApp constantly refreshes the KAT parameters.**
     
@@ -80,7 +80,7 @@ sidebar_position: 5
 
 ![image](https://user-images.githubusercontent.com/101527472/213927405-7fc7ca1d-c376-43ca-a566-c995be6a53f6.png)
 
-- If you don't know what you are doing then do not change Receive Port on the OSC Listener Tab, it is 4026 by default. (It should not be 9000 or 90001)
+- If you don't know what you are doing then do not change Receive Port on the OSC Listener Tab, it is 4026 by default. (It should not be 9000 or 9001)
 
 ![image](https://user-images.githubusercontent.com/101527472/213927522-595d8550-a710-481f-84f3-4f66017f4aea.png)
 

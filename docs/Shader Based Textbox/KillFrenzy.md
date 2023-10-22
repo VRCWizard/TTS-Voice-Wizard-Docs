@@ -18,5 +18,8 @@ There are other ways to output text in VRChat other than the default Chatbox
 
 ![image](https://github.com/killfrenzy96/KillFrenzyAvatarText/raw/main/Images/KAT_Demonstration.gif)
 
+## Settings
+Click [here](/docs/Settings/KATSettings) to learn more about the KAT settings
+
 
 

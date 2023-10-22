@@ -22,8 +22,14 @@ Your subscription not only enhances your capabilities but also supports future d
 Ready to elevate your TTS game? Dive into VoiceWizardPro now! For detailed insights, explore our [VoiceWizardPro GitHub Wiki page](https://github.com/VRCWizard/TTS-Voice-Wizard/wiki/VoiceWizardPro).
 
 Unlock the power of VoiceWizardPro today! 🚀
+<p align="center">
+
+
 
 [![Ko-Fi Badge](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ttsvoicewizard)
 [![Patreon Badge](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/ttsvoicewizard)
 
+
+
 ![VoiceWizardPro](https://github-production-user-asset-6210df.s3.amazonaws.com/101527472/273461878-6421f8bc-303f-4d66-9515-e96f3ba2119b.png)
+</p>

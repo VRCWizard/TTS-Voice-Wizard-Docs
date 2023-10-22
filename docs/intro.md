@@ -4,6 +4,10 @@ sidebar_position: 1
 ---
 # A Voice For Everyone
 
+:::info
+This documentation is a work in progress! If you have any questions, or if you think you've found an issue, please [join the Discord](https://discord.com/invite/YjgR9SWPnW) and ask!
+
+:::
 
 ![TTS-Voice-Wizard](https://user-images.githubusercontent.com/101527472/221026617-daf7ced0-7390-4555-93c6-462eb92ed158.png)
 
