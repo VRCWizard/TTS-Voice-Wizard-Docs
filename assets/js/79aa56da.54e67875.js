@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvoice_wizard_docs=self.webpackChunkvoice_wizard_docs||[]).push([[2983],{7792:a=>{a.exports=JSON.parse('{"label":"Translation","permalink":"/TTS-Voice-Wizard-Docs/blog/tags/translation","allTagsPath":"/TTS-Voice-Wizard-Docs/blog/tags","count":1}')}}]);

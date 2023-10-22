@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvoice_wizard_docs=self.webpackChunkvoice_wizard_docs||[]).push([[1454],{4391:o=>{o.exports=JSON.parse('{"permalink":"/TTS-Voice-Wizard-Docs/blog/tags/ibm-watson","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

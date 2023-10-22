@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvoice_wizard_docs=self.webpackChunkvoice_wizard_docs||[]).push([[7694],{6841:e=>{e.exports=JSON.parse('{"label":"DeepGram","permalink":"/TTS-Voice-Wizard-Docs/blog/tags/deep-gram","allTagsPath":"/TTS-Voice-Wizard-Docs/blog/tags","count":2}')}}]);

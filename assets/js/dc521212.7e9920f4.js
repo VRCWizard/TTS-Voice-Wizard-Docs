@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvoice_wizard_docs=self.webpackChunkvoice_wizard_docs||[]).push([[6441],{8047:o=>{o.exports=JSON.parse('{"permalink":"/TTS-Voice-Wizard-Docs/blog/tags/discount","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
