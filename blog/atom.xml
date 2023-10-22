@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ttsvoicewizard.com/TTS-Voice-Wizard-Docs/blog</id>
+    <id>https://ttsvoicewizard.com/blog</id>
     <title>TTS Voice Wizard Blog</title>
     <updated>2023-10-18T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://ttsvoicewizard.com/TTS-Voice-Wizard-Docs/blog"/>
+    <link rel="alternate" href="https://ttsvoicewizard.com/blog"/>
     <subtitle>TTS Voice Wizard Blog</subtitle>
-    <icon>https://ttsvoicewizard.com/TTS-Voice-Wizard-Docs/img/TTSIcon.ico</icon>
+    <icon>https://ttsvoicewizard.com/img/TTSIcon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
-        <id>https://ttsvoicewizard.com/TTS-Voice-Wizard-Docs/blog/welcome</id>
-        <link href="https://ttsvoicewizard.com/TTS-Voice-Wizard-Docs/blog/welcome"/>
+        <id>https://ttsvoicewizard.com/blog/welcome</id>
+        <link href="https://ttsvoicewizard.com/blog/welcome"/>
         <updated>2023-10-18T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Welcome to the new official website for TTS Voice Wizard. Explore the documentation!]]></summary>
         <content type="html"><![CDATA[<p>Welcome to the new official website for TTS Voice Wizard. Explore the documentation!</p>]]></content>
@@ -22,8 +22,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[VWP Announcement - DeepGram Update]]></title>
-        <id>https://ttsvoicewizard.com/TTS-Voice-Wizard-Docs/blog/vwp-announcement-nova2</id>
-        <link href="https://ttsvoicewizard.com/TTS-Voice-Wizard-Docs/blog/vwp-announcement-nova2"/>
+        <id>https://ttsvoicewizard.com/blog/vwp-announcement-nova2</id>
+        <link href="https://ttsvoicewizard.com/blog/vwp-announcement-nova2"/>
         <updated>2023-10-06T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Voice Wizard Pro Changes]]></summary>
         <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="voice-wizard-pro-changes">Voice Wizard Pro Changes<a href="#voice-wizard-pro-changes" class="hash-link" aria-label="Direct link to Voice Wizard Pro Changes" title="Direct link to Voice Wizard Pro Changes">​</a></h3><ul><li>Deepgram now uses their <a href="https://deepgram.com/learn/nova-2-speech-to-text-api" target="_blank" rel="noopener noreferrer">nova 2 model</a> (English only)</li></ul>]]></content>
@@ -37,8 +37,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[VWP Announcement - More Language Support]]></title>
-        <id>https://ttsvoicewizard.com/TTS-Voice-Wizard-Docs/blog/vwp-announcement-newlanguages</id>
-        <link href="https://ttsvoicewizard.com/TTS-Voice-Wizard-Docs/blog/vwp-announcement-newlanguages"/>
+        <id>https://ttsvoicewizard.com/blog/vwp-announcement-newlanguages</id>
+        <link href="https://ttsvoicewizard.com/blog/vwp-announcement-newlanguages"/>
         <updated>2023-09-08T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Voice Wizard Pro Changes]]></summary>
         <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="voice-wizard-pro-changes">Voice Wizard Pro Changes<a href="#voice-wizard-pro-changes" class="hash-link" aria-label="Direct link to Voice Wizard Pro Changes" title="Direct link to Voice Wizard Pro Changes">​</a></h3><ul><li>Support added for for 40 new languages</li><li>Tiers above Acolyte now have 1000 max characters per request (Acolyte still has 300 per request)</li></ul>]]></content>
@@ -52,8 +52,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[VWP Announcement - IBM Watson Added]]></title>
-        <id>https://ttsvoicewizard.com/TTS-Voice-Wizard-Docs/blog/vwp-announcement-IBM</id>
-        <link href="https://ttsvoicewizard.com/TTS-Voice-Wizard-Docs/blog/vwp-announcement-IBM"/>
+        <id>https://ttsvoicewizard.com/blog/vwp-announcement-IBM</id>
+        <link href="https://ttsvoicewizard.com/blog/vwp-announcement-IBM"/>
         <updated>2023-07-07T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Voice Wizard Pro Changes]]></summary>
         <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="voice-wizard-pro-changes">Voice Wizard Pro Changes<a href="#voice-wizard-pro-changes" class="hash-link" aria-label="Direct link to Voice Wizard Pro Changes" title="Direct link to Voice Wizard Pro Changes">​</a></h3><ul><li>IBM Watson Text-To-Speech has been added as a feature of VoiceWizardPro.</li></ul>]]></content>
@@ -67,8 +67,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[VWP Announcement - DeepGram Added]]></title>
-        <id>https://ttsvoicewizard.com/TTS-Voice-Wizard-Docs/blog/vwp-announcement-deepgramadded</id>
-        <link href="https://ttsvoicewizard.com/TTS-Voice-Wizard-Docs/blog/vwp-announcement-deepgramadded"/>
+        <id>https://ttsvoicewizard.com/blog/vwp-announcement-deepgramadded</id>
+        <link href="https://ttsvoicewizard.com/blog/vwp-announcement-deepgramadded"/>
         <updated>2023-06-02T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Voice Wizard Pro Changes]]></summary>
         <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="voice-wizard-pro-changes">Voice Wizard Pro Changes<a href="#voice-wizard-pro-changes" class="hash-link" aria-label="Direct link to Voice Wizard Pro Changes" title="Direct link to Voice Wizard Pro Changes">​</a></h3><ul><li>DeepGram Speech Recognition has been added as a feature of VoiceWizardPro.</li></ul>]]></content>
@@ -82,8 +82,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[VWP Announcement - Translation For All Roles]]></title>
-        <id>https://ttsvoicewizard.com/TTS-Voice-Wizard-Docs/blog/vwp-announcement-translationroles</id>
-        <link href="https://ttsvoicewizard.com/TTS-Voice-Wizard-Docs/blog/vwp-announcement-translationroles"/>
+        <id>https://ttsvoicewizard.com/blog/vwp-announcement-translationroles</id>
+        <link href="https://ttsvoicewizard.com/blog/vwp-announcement-translationroles"/>
         <updated>2023-05-23T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Voice Wizard Pro Changes]]></summary>
         <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="voice-wizard-pro-changes">Voice Wizard Pro Changes<a href="#voice-wizard-pro-changes" class="hash-link" aria-label="Direct link to Voice Wizard Pro Changes" title="Direct link to Voice Wizard Pro Changes">​</a></h3><ul><li>All Tiers on both the <a href="https://www.patreon.com/ttsvoicewizard" target="_blank" rel="noopener noreferrer">Patreon</a> and <a href="https://ko-fi.com/ttsvoicewizard" target="_blank" rel="noopener noreferrer">Ko-fi</a> now have translation characters alloted.</li></ul>]]></content>
@@ -96,8 +96,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[VWP Announcement - Discount]]></title>
-        <id>https://ttsvoicewizard.com/TTS-Voice-Wizard-Docs/blog/vwp-announcement-discount</id>
-        <link href="https://ttsvoicewizard.com/TTS-Voice-Wizard-Docs/blog/vwp-announcement-discount"/>
+        <id>https://ttsvoicewizard.com/blog/vwp-announcement-discount</id>
+        <link href="https://ttsvoicewizard.com/blog/vwp-announcement-discount"/>
         <updated>2023-05-16T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Voice Wizard Pro Changes]]></summary>
         <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="voice-wizard-pro-changes">Voice Wizard Pro Changes<a href="#voice-wizard-pro-changes" class="hash-link" aria-label="Direct link to Voice Wizard Pro Changes" title="Direct link to Voice Wizard Pro Changes">​</a></h3><p>I have permanently "discounted" using Amazon Polly and Google voices with pro. Basically your TTS Characters used is about 1/3 as much. So if you typed a 3 letter word you would only increase your usage by 1. (It's rounded so 4 letter word = 1 usage, 5 letter word = 2 usage)</p><ul><li><p>Azure (and IBM Watson) voices are still 1 to 1.</p></li><li><p>So you could use about 3 times as many characters if you are using Amazon Polly or Google for TTS.</p></li></ul>]]></content>

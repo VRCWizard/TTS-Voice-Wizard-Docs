@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvoice_wizard_docs=self.webpackChunkvoice_wizard_docs||[]).push([[5504],{1028:e=>{e.exports=JSON.parse('{"label":"DeepGram","permalink":"/blog/tags/deep-gram","allTagsPath":"/blog/tags","count":2}')}}]);

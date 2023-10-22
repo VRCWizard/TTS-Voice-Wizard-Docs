@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkvoice_wizard_docs=self.webpackChunkvoice_wizard_docs||[]).push([[7761],{8552:a=>{a.exports=JSON.parse('{"label":"nova 2","permalink":"/TTS-Voice-Wizard-Docs/blog/tags/nova-2","allTagsPath":"/TTS-Voice-Wizard-Docs/blog/tags","count":1}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvoice_wizard_docs=self.webpackChunkvoice_wizard_docs||[]).push([[1486],{8860:a=>{a.exports=JSON.parse('{"label":"nova 2","permalink":"/blog/tags/nova-2","allTagsPath":"/blog/tags","count":1}')}}]);

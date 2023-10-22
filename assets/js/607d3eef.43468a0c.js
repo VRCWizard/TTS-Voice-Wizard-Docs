@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvoice_wizard_docs=self.webpackChunkvoice_wizard_docs||[]).push([[7130],{6409:a=>{a.exports=JSON.parse('{"label":"new languages","permalink":"/blog/tags/new-languages","allTagsPath":"/blog/tags","count":1}')}}]);

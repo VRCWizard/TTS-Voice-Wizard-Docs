@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkvoice_wizard_docs=self.webpackChunkvoice_wizard_docs||[]).push([[321],{27:a=>{a.exports=JSON.parse('{"label":"IBM Watson","permalink":"/TTS-Voice-Wizard-Docs/blog/tags/ibm-watson","allTagsPath":"/TTS-Voice-Wizard-Docs/blog/tags","count":1}')}}]);

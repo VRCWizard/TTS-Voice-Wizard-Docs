@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvoice_wizard_docs=self.webpackChunkvoice_wizard_docs||[]).push([[6270],{7342:s=>{s.exports=JSON.parse('{"label":"Discount","permalink":"/blog/tags/discount","allTagsPath":"/blog/tags","count":2}')}}]);

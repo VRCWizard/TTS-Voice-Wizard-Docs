@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvoice_wizard_docs=self.webpackChunkvoice_wizard_docs||[]).push([[1793],{5951:a=>{a.exports=JSON.parse('{"label":"VoiceWizardPro","permalink":"/blog/tags/voice-wizard-pro","allTagsPath":"/blog/tags","count":6}')}}]);
