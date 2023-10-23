@@ -11,15 +11,16 @@ const config = {
   favicon: 'img/TTSIcon.ico',
 
   // Set the production url of your site here
-  url: 'https://VRCWizard.github.io',
+  url: 'https://ttsvoicewizard.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/TTS-Voice-Wizard-Docs/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'VRCWizard', // Usually your GitHub org/user name.
   projectName: 'TTS-Voice-Wizard-Docs', // Usually your repo name.
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
