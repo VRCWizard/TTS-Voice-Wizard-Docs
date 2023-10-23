@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 ---
-# Heartrate With Pulsoid
+# Heart Rate With Pulsoid
 1. Navigate to Integration > Heartrate + OSC Listener
 
 ![image](https://github.com/VRCWizard/TTS-Voice-Wizard/assets/101527472/b3de2f9e-6e5c-42db-802f-01f8b28b2c6d)

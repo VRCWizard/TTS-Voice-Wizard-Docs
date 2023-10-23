@@ -1,8 +1,8 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
-# Heartrate With HRToVRChat
+# Heart Rate With HRToVRChat
 
 :::tip
 For receiving heartrate data the [Pulsoid Integration](/docs/HeartRate/HeartrateWithPulsoid) is a much better and easy to setup option than the OSC Listener route.
