@@ -57,7 +57,7 @@ These variables require [OSC Listener Setup](https://github.com/VRCWizard/TTS-Vo
 
 
 ### Additional Customization
-Try out different unicode character to customize your output further
+Try out different unicode characters to customize your output further.
 
 
 ## Settings
