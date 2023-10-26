@@ -37,3 +37,9 @@ sidebar_position: 1
 
 ### Delay Before Audio (ms)
 - add a delay between text output and audio output
+
+
+## Exports and Imports
+Certain settings can be outputed and imported. Upon clicking the Export button a file will be created with your settings in the Output/Exports folder.
+
+Importing will let you browse for a valid file to import settings from.

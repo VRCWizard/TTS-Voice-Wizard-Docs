@@ -9,15 +9,15 @@ sidebar_position: 2
 
 :::info
 
-Speech Recognition Hours only account for using DeepGram for Speech Recognition. You could use any other recognition such as Whisper with no limit.
-
-:::
-:::note
-
-The "Enchanter" tier does not give TTS characters via the Voice Wizard Pro API (only Translation characters).
+- Speech Recognition Hours only account for using DeepGram for Speech Recognition. You could use any other recognition such as Whisper with no limit.
+- The "Enchanter" tier does not give TTS characters via the Voice Wizard Pro API (only Translation characters).
+- Selecting a higher tier/ upgrading will automatically reset your usage. If you downgrade or select a lower tier(before the end of your month) you will need to make a help request in discord to have your usage reset manually.
 
 :::
 
+:::tip
+  Character usage for [Amazon Polly and Google Cloud is discounted](/blog/vwp-announcement-discount) with [Voice Wizard Pro](/docs/VoiceWizardPro/GetVoiceWizardPro)
+:::
 
 
 
@@ -35,8 +35,3 @@ The "Enchanter" tier does not give TTS characters via the Voice Wizard Pro API (
 
 
 
-:::note
-Selecting a higher tier/ upgrading will automatically reset your usage.
-
-If you downgrade or select a lower tier(before the end of your month) you will need to make a help request in discord to have your usage reset manually.
-:::

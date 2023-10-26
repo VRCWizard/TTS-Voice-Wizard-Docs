@@ -13,6 +13,11 @@ The ability to show current **time** has been added as a button, although it is 
 
 :::
 
+:::caution warning
+
+Does this let you play music through your microphone? No. Just google "How to play music through your microphone" there are tons of videos on it. It just requires a virtual cable. You can use the media integration in conjunction with outputting music though your microphone so listeners know what you're playing :)
+:::
+
 
 Use Media Integration to display your 'Now Playing Song' in VRChat.
 
