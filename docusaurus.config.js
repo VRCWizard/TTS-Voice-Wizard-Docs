@@ -56,6 +56,12 @@ const config = {
       }),
     ],
   ],
+      // ...
+        // Add 'regenerator-runtime/runtime' to the clientModules array
+          clientModules: [
+            require.resolve('regenerator-runtime/runtime'), //need this here for speech recognition
+          ],
+        
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
@@ -78,6 +84,7 @@ const config = {
             label: 'Docs',
           },
           {to: '/blog', label: 'Updates & Tips', position: 'left'},
+          {to: '/WebApp', label: 'Web App (Beta)', position: 'left'},
           {
             href: 'https://github.com/VRCWizard/TTS-Voice-Wizard',
             label: 'GitHub',
@@ -97,18 +104,26 @@ const config = {
       },
        footer: {
         style: 'dark',
-       /* links: [
+        links: [
           {
-            title: 'Docs',
+            title: 'TTS Voice Wizard',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'GitHub',
+                href: 'https://github.com/VRCWizard/TTS-Voice-Wizard',
+              },
+              {
+                label: 'Patreon',
+                href: 'https://www.patreon.com/ttsvoicewizard',
+              },
+              {
+                label: 'Ko-fi',
+                href: 'https://ko-fi.com/ttsvoicewizard',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Socials',
             items: [
               {
                 label: 'Youtube',
@@ -128,24 +143,22 @@ const config = {
             title: 'More',
             items: [
               {
+                label: 'Getting Started',
+                href: '/docs/intro',
+              },
+              {
                 label: 'Blog',
-                to: '/blog',
+                href: '/blog',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/VRCWizard/TTS-Voice-Wizard',
-              },
-              {
-                label: 'Patreon',
-                href: 'https://www.patreon.com/ttsvoicewizard',
-              },
-              {
-                label: 'Ko-fi',
-                href: 'https://ko-fi.com/ttsvoicewizard',
+                label: 'Web App',
+                to: '/WebApp',
               },
             ],
           },
-        ],*/
+        
+        ],
+        
         copyright: `Copyright © ${new Date().getFullYear()} TTS Voice Wizard.`,
       },
       prism: {
