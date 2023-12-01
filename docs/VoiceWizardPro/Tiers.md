@@ -21,17 +21,17 @@ sidebar_position: 2
 
 
 
-| Tier  | Price Per Month | TTS Characters Per Month | Translation Character Per Month |Speech Recognition Hours (DeepGram) | Rate Limiting |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Acolyte | $3 | 100,000 | 50,000 | 1 | moderate |  
-| Magician | $5 | 250,000 | 50,000 | 3 | moderate |
-| Enchanter | $6 | 0 | 500,000 | 3 | moderate |
-| Witch | $10 | 500,000 | 100,000 | 5 | moderate |
-| Sorcerer| $15 |  500,000 | 500,000 | 10 | moderate |
-| Warlock | $18 | 1,000,000 | 100,000 | 10 |  low |
-| Wizard | $20 | 750,000 | 500,000 | 15 | low |
-| Archmage| $50 |  2,000,000 | 1,000,000 | 25 | low |
-| Deity | $100 | 4,000,000 | 2,000,000 | 50 | low |
+| Tier  | Price Per Month | TTS Characters Per Month | Translation Character Per Month |Speech Recognition Hours (DeepGram) | Rate Limiting | Max Characters Per Request
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------- |
+| Acolyte | $3 | 100,000 | 50,000 | 1 | moderate |  300 |
+| Magician | $5 | 250,000 | 50,000 | 3 | moderate | 1000 |
+| Enchanter | $6 | 0 | 500,000 | 3 | moderate | 1000 |
+| Witch | $10 | 500,000 | 100,000 | 5 | moderate | 1000 |
+| Sorcerer| $15 |  500,000 | 500,000 | 10 | moderate | 1000 |
+| Warlock | $18 | 1,000,000 | 100,000 | 10 |  low | 1000 |
+| Wizard | $20 | 750,000 | 500,000 | 15 | low | 1000 |
+| Archmage| $50 |  2,000,000 | 1,000,000 | 25 | low | 1000 |
+| Deity | $100 | 4,000,000 | 2,000,000 | 50 | low | 1000 |
 
 
 

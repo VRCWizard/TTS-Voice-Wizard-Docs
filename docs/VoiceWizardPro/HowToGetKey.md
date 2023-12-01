@@ -9,7 +9,7 @@ When using Ko-fi, if you did not receive your discord role automatically please 
 
 1. Become a member on [Kofi](https://ko-fi.com/ttsvoicewizard/tiers) or [Patreon](https://www.patreon.com/ttsvoicewizard)
 
-2. Link your Discord to Kofi or Patreon and join the Discord Server
+2. [Link your Discord account to Kofi](https://help.ko-fi.com/hc/en-us/articles/8664701197073-How-do-I-join-a-Creator-s-Discord-) or [link your Discord account to Patreon](https://support.patreon.com/hc/en-us/articles/212052266-Getting-Discord-access) and join the Discord Server
 
 
 3. Navigate to the ```#get-api-key-beta``` channel in Discord
