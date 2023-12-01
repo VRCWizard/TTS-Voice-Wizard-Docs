@@ -19,7 +19,7 @@ Continue through the quickstart guide or watch the tutorial video for instructio
 
 1. Download the latest version of TTS Voice Wizard here:
 
-[![Download TTS Voice Wizard](https://custom-icon-badges.demolab.com/badge/-Download-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/VRCWizard/TTS-Voice-Wizard/releases/download/v1.5.8.1/TTSVoiceWizard-v1.5.8.1-x64.zip)
+[![Download TTS Voice Wizard](https://custom-icon-badges.demolab.com/badge/-Download-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/VRCWizard/TTS-Voice-Wizard/releases/download/v1.6.1/TTSVoiceWizard-v1.6.1-x64.zip)
 
 2. Unzip/extract the files
 3. Run the .exe file 

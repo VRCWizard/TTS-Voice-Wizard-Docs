@@ -29,6 +29,7 @@ You can Customize media text that appears as you wish
 | ``{counter(num)}``| ``(num)`` can be a number 1-6 and corresponds to that counter in the VRChat Listener tab|
 | ``{time}``| will only be displayed with shader based output like KAT|
 | ``{nline}``| create newline using the the Unicode 'LINE SEPARATOR' (U+2028) character: `` `` |
+| ``{progressBar E:◯ L:40}``| You can adjust the emoji ``E`` to be any character or string of characters (no spaces) and the length ``L`` to be any int |
 
 
 ### Heart Rate Variables

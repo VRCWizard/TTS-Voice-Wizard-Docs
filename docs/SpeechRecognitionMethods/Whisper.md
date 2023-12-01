@@ -47,3 +47,4 @@ The larger models may cause stuttering in a GPU intensive game like VRChat while
 
  ![Set GPU](https://github.com/VRCWizard/TTS-Voice-Wizard/assets/101527472/d0e824ea-94d6-4caf-8022-badcf5509ffe)
 
+

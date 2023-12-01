@@ -23,8 +23,8 @@ function HomepageHeader() {
             <div className={styles.buttons}>
               <Link
                 className="button button--secondary button--lg"
-                to="https://github.com/VRCWizard/TTS-Voice-Wizard/releases/download/v1.5.8.1/TTSVoiceWizard-v1.5.8.1-x64.zip">
-                Download TTSVoiceWizard-v1.5.8.1-x64.zip
+                to="https://github.com/VRCWizard/TTS-Voice-Wizard/releases/download/v1.6.1/TTSVoiceWizard-v1.6.1-x64.zip">
+                Download TTSVoiceWizard-v1.6.1-x64.zip
               </Link>
             </div>
          

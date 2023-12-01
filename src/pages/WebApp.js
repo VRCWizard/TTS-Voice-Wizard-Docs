@@ -90,8 +90,8 @@ export default function Hello() {
   
         // Set the selectedOutputDevice to the deviceId of the first device
         if (audioOutputDevices.length > 0) {
-         // setSelectedOutputDevice(audioOutputDevices[0].deviceId);
-        //  setSelectedOutputDevice2(audioOutputDevices[0].deviceId);
+          //setSelectedOutputDevice(audioOutputDevices[0].deviceId);
+       //   setSelectedOutputDevice2(audioOutputDevices[0].deviceId);
         }
       } catch (error) {
         console.error('Error enumerating audio output devices:', error);

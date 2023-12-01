@@ -17,6 +17,8 @@ sidebar_position: 5
 
 ## Option 1: VRChat Chatbox
 - OSC messages will be sent to the VRChat Chatbox by default
+    - The VRChat Chatbox has a limit of 144 characters per request
+    - The VRChat Chatbox has 5 messages per 5 seconds limit, if you cross that you will incur a 30 second cooldown.
 
 
 ![image](https://user-images.githubusercontent.com/101527472/198512098-ea1b84a5-4ca9-4aac-84cb-46f86d1683e2.png)
