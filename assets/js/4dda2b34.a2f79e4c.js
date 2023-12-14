@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvoice_wizard_docs=self.webpackChunkvoice_wizard_docs||[]).push([[6422],{5270:e=>{e.exports=JSON.parse('{"label":"december","permalink":"/blog/tags/december","allTagsPath":"/blog/tags","count":1}')}}]);

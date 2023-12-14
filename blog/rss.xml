@@ -4,10 +4,22 @@
         <title>TTS Voice Wizard Blog</title>
         <link>https://ttsvoicewizard.com/blog</link>
         <description>TTS Voice Wizard Blog</description>
-        <lastBuildDate>Wed, 18 Oct 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Dec 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[December Update]]></title>
+            <link>https://ttsvoicewizard.com/blog/decemberupdate</link>
+            <guid>https://ttsvoicewizard.com/blog/decemberupdate</guid>
+            <pubDate>Thu, 14 Dec 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[- Deepgram can now be used continuously and silence trimming has been improved.]]></description>
+            <content:encoded><![CDATA[<ul><li><p>Deepgram can now be used continuously and silence trimming has been improved.</p></li><li><p><code>cheerful</code>, <code>empathetic</code>, <code>neutral</code>, <code>uncertain</code> speaking styles added for IBM Watson Expressive voices</p></li></ul>]]></content:encoded>
+            <category>update</category>
+            <category>december</category>
+            <category>deepgram</category>
+            <category>ibm</category>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://ttsvoicewizard.com/blog/welcome</link>

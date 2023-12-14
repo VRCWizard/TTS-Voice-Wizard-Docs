@@ -2,11 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ttsvoicewizard.com/blog</id>
     <title>TTS Voice Wizard Blog</title>
-    <updated>2023-10-18T00:00:00.000Z</updated>
+    <updated>2023-12-14T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ttsvoicewizard.com/blog"/>
     <subtitle>TTS Voice Wizard Blog</subtitle>
     <icon>https://ttsvoicewizard.com/img/TTSIcon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[December Update]]></title>
+        <id>https://ttsvoicewizard.com/blog/decemberupdate</id>
+        <link href="https://ttsvoicewizard.com/blog/decemberupdate"/>
+        <updated>2023-12-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[- Deepgram can now be used continuously and silence trimming has been improved.]]></summary>
+        <content type="html"><![CDATA[<ul><li><p>Deepgram can now be used continuously and silence trimming has been improved.</p></li><li><p><code>cheerful</code>, <code>empathetic</code>, <code>neutral</code>, <code>uncertain</code> speaking styles added for IBM Watson Expressive voices</p></li></ul>]]></content>
+        <author>
+            <name>Wiz</name>
+            <uri>https://github.com/VRCWizard</uri>
+        </author>
+        <category label="update" term="update"/>
+        <category label="december" term="december"/>
+        <category label="deepgram" term="deepgram"/>
+        <category label="ibm" term="ibm"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://ttsvoicewizard.com/blog/welcome</id>

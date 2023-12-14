@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvoice_wizard_docs=self.webpackChunkvoice_wizard_docs||[]).push([[8601],{2229:a=>{a.exports=JSON.parse('{"label":"ibm","permalink":"/blog/tags/ibm","allTagsPath":"/blog/tags","count":1}')}}]);
