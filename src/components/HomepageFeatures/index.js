@@ -36,7 +36,7 @@ const FeatureList = [
     image: require('@site/static/img/Workout.png').default,
     description: (
       <>
-        Seamlessly connect your heart rate monitor and share your real-time heart rate data with others to express your emotions.
+        Seamlessly <a href="http://ttsvoicewizard.com/docs/HeartRate/HeartrateWithPulsoid">connect your heart rate monitor</a> and share your real-time heart rate data with others to express your emotions.
       </>
     ),
   },
@@ -45,7 +45,7 @@ const FeatureList = [
     image: require('@site/static/img/VR.png').default,
     description: (
       <>
-      Control VRChat avatar parameters with voice commands, Display Customizable Interactive Counters based on VRChat Contact Receivers, Display Tracker and Controller Battery Life ...and much more.
+      Control VRChat avatar parameters with <a href="http://ttsvoicewizard.com/docs/VoiceCommands">Voice Commands</a>, display <a href="http://ttsvoicewizard.com/docs/ReceivingData/VRChatListener/Counters">Customizable Interactive Counters</a>, show off <a href="http://ttsvoicewizard.com/docs/ReceivingData/OSCListener/BatteryLife">Tracker and Controller Battery Lifes</a> ...and much more.
       </>
     ),
   },

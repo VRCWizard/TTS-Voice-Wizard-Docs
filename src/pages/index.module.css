@@ -16,6 +16,21 @@
   }
 }
 
+.backBanner {
+  padding: 4rem 0;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+@media screen and (max-width: 996px) {
+  .backBanner {
+    padding: 2rem;
+  }
+}
+
 .buttons {
   display: flex;
   align-items: center;
