@@ -4,7 +4,7 @@ sidebar_position: 1
 # Supported Languages
 
 :::tip
-It is recommened to use a [Voice Wizard Pro Key](/docs/VoiceWizardPro/GetVoiceWizardPro) for better translations and extended language supported
+It is recommened to use a [Voice Wizard Pro Key](/docs/VoiceWizardPro/GetVoiceWizardPro) for better translations and extended language support
 :::
 
 

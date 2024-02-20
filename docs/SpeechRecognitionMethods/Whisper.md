@@ -10,6 +10,13 @@ Keep in mind that this implementation of Whisper uses your GPU.
 The larger models may cause stuttering in a GPU intensive game like VRChat while in VR.
 :::
 
+## Requirements
+- Only supported platform is 64-bit Windows.
+- Should work on Windows 8.1 or newer, but I have only tested on Windows 10, Windows 11.
+- The library requires a Direct3D 11.0 capable GPU, which in 2023 simply means “any hardware GPU”. The most recent GPU without D3D 11.0 support was Intel [Sandy Bridge](https://en.wikipedia.org/wiki/Sandy_Bridge) from 2011.
+- On the CPU side, the library requires [AVX1](https://en.wikipedia.org/wiki/Advanced_Vector_Extensions) and [F16C](https://en.wikipedia.org/wiki/F16C) support.
+- Essentially if you CPU and GPU are from 2011 or earlier support is not guarenteed
+
 ## Switching Models
 - You can use the ``Auto Download Model`` dropdown to select a model and click the ``Download or Select`` button to download and or select the chosen model.
 

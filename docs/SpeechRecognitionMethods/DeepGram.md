@@ -16,7 +16,15 @@ This feature is only available with a [VoiceWizardPro API Key](/docs/VoiceWizard
 
 ### Adjusting Settings
 
-#### Silence Threshold 
+#### Automatically Adjusting Silence Threshold
+- Click the calibrate button and wait 3 seconds for the silence threshold to be calibration. You should not talk during this time as it is sampling your baseline background sound.
+
+![image](https://github.com/VRCWizard/TTS-Voice-Wizard-Docs/assets/101527472/03b85941-d115-415f-9bf9-9e4c6e5637ee)
+
+
+#### Manually Adjusting Silence Threshold 
+
+
 - Click you're speech to text hotkey (Ctrl + G) by default to activate speech recognition while in this tab.
 - Monitor The dial
 
@@ -31,6 +39,8 @@ This feature is only available with a [VoiceWizardPro API Key](/docs/VoiceWizard
 ![image](https://github.com/VRCWizard/TTS-Voice-Wizard/assets/101527472/aed02ad4-c7c4-4035-9eed-48195c2ad7ee)
 
 
-#### Audio Duration
+#### Other Settings
 - Minimum Audio Duration is the shortest duration a audio clip can have in seconds
 - Maximum audio duration is the longest duration an audio clip can have with a soft cap of 25 seconds and a hard cap in the API of 30 seconds.
+- Minimum Valid VAD Duration is shortest concurrent voice activation needed for a clip to be valid (processed by the API)
+- Silence Scale is essentially how long of a pause you can take before the audio clip is processed. A larger number means you can take a longer pause/ must wait longer before clip will be processed.
