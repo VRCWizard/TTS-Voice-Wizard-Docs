@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>TTS Voice Wizard Blog</title>
+        <link>https://ttsvoicewizard.com/blog</link>
+        <description>TTS Voice Wizard Blog</description>
+        <lastBuildDate>Wed, 18 Oct 2023 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <link>https://ttsvoicewizard.com/blog/welcome</link>
+            <guid>https://ttsvoicewizard.com/blog/welcome</guid>
+            <pubDate>Wed, 18 Oct 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Welcome to the new official website for TTS Voice Wizard. Explore the documentation!]]></description>
+            <content:encoded><![CDATA[<p>Welcome to the new official website for TTS Voice Wizard. Explore the documentation!</p>]]></content:encoded>
+            <category>welcome</category>
+        </item>
+        <item>
+            <title><![CDATA[VWP Announcement - DeepGram Update]]></title>
+            <link>https://ttsvoicewizard.com/blog/vwp-announcement-nova2</link>
+            <guid>https://ttsvoicewizard.com/blog/vwp-announcement-nova2</guid>
+            <pubDate>Fri, 06 Oct 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Voice Wizard Pro Changes]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="voice-wizard-pro-changes">Voice Wizard Pro Changes<a href="#voice-wizard-pro-changes" class="hash-link" aria-label="Direct link to Voice Wizard Pro Changes" title="Direct link to Voice Wizard Pro Changes">​</a></h3><ul><li>Deepgram now uses their <a href="https://deepgram.com/learn/nova-2-speech-to-text-api" target="_blank" rel="noopener noreferrer">nova 2 model</a> (English only)</li></ul>]]></content:encoded>
+            <category>VoiceWizardPro</category>
+            <category>DeepGram</category>
+            <category>nova 2</category>
+        </item>
+        <item>
+            <title><![CDATA[VWP Announcement - More Language Support]]></title>
+            <link>https://ttsvoicewizard.com/blog/vwp-announcement-newlanguages</link>
+            <guid>https://ttsvoicewizard.com/blog/vwp-announcement-newlanguages</guid>
+            <pubDate>Fri, 08 Sep 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Voice Wizard Pro Changes]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="voice-wizard-pro-changes">Voice Wizard Pro Changes<a href="#voice-wizard-pro-changes" class="hash-link" aria-label="Direct link to Voice Wizard Pro Changes" title="Direct link to Voice Wizard Pro Changes">​</a></h3><ul><li>Support added for for 40 new languages</li><li>Tiers above Acolyte now have 1000 max characters per request (Acolyte still has 300 per request)</li></ul>]]></content:encoded>
+            <category>VoiceWizardPro</category>
+            <category>Translation</category>
+            <category>new languages</category>
+        </item>
+        <item>
+            <title><![CDATA[VWP Announcement - IBM Watson Added]]></title>
+            <link>https://ttsvoicewizard.com/blog/vwp-announcement-IBM</link>
+            <guid>https://ttsvoicewizard.com/blog/vwp-announcement-IBM</guid>
+            <pubDate>Fri, 07 Jul 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Voice Wizard Pro Changes]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="voice-wizard-pro-changes">Voice Wizard Pro Changes<a href="#voice-wizard-pro-changes" class="hash-link" aria-label="Direct link to Voice Wizard Pro Changes" title="Direct link to Voice Wizard Pro Changes">​</a></h3><ul><li>IBM Watson Text-To-Speech has been added as a feature of VoiceWizardPro.</li></ul>]]></content:encoded>
+            <category>VoiceWizardPro</category>
+            <category>TTS</category>
+            <category>IBM Watson</category>
+        </item>
+        <item>
+            <title><![CDATA[VWP Announcement - DeepGram Added]]></title>
+            <link>https://ttsvoicewizard.com/blog/vwp-announcement-deepgramadded</link>
+            <guid>https://ttsvoicewizard.com/blog/vwp-announcement-deepgramadded</guid>
+            <pubDate>Fri, 02 Jun 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Voice Wizard Pro Changes]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="voice-wizard-pro-changes">Voice Wizard Pro Changes<a href="#voice-wizard-pro-changes" class="hash-link" aria-label="Direct link to Voice Wizard Pro Changes" title="Direct link to Voice Wizard Pro Changes">​</a></h3><ul><li>DeepGram Speech Recognition has been added as a feature of VoiceWizardPro.</li></ul>]]></content:encoded>
+            <category>VoiceWizardPro</category>
+            <category>STT</category>
+            <category>DeepGram</category>
+        </item>
+        <item>
+            <title><![CDATA[VWP Announcement - Translation For All Roles]]></title>
+            <link>https://ttsvoicewizard.com/blog/vwp-announcement-translationroles</link>
+            <guid>https://ttsvoicewizard.com/blog/vwp-announcement-translationroles</guid>
+            <pubDate>Tue, 23 May 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Voice Wizard Pro Changes]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="voice-wizard-pro-changes">Voice Wizard Pro Changes<a href="#voice-wizard-pro-changes" class="hash-link" aria-label="Direct link to Voice Wizard Pro Changes" title="Direct link to Voice Wizard Pro Changes">​</a></h3><ul><li>All Tiers on both the <a href="https://www.patreon.com/ttsvoicewizard" target="_blank" rel="noopener noreferrer">Patreon</a> and <a href="https://ko-fi.com/ttsvoicewizard" target="_blank" rel="noopener noreferrer">Ko-fi</a> now have translation characters alloted.</li></ul>]]></content:encoded>
+            <category>VoiceWizardPro</category>
+            <category>Discount</category>
+        </item>
+        <item>
+            <title><![CDATA[VWP Announcement - Discount]]></title>
+            <link>https://ttsvoicewizard.com/blog/vwp-announcement-discount</link>
+            <guid>https://ttsvoicewizard.com/blog/vwp-announcement-discount</guid>
+            <pubDate>Tue, 16 May 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Voice Wizard Pro Changes]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="voice-wizard-pro-changes">Voice Wizard Pro Changes<a href="#voice-wizard-pro-changes" class="hash-link" aria-label="Direct link to Voice Wizard Pro Changes" title="Direct link to Voice Wizard Pro Changes">​</a></h3><p>I have permanently "discounted" using Amazon Polly and Google voices with pro. Basically your TTS Characters used is about 1/3 as much. So if you typed a 3 letter word you would only increase your usage by 1. (It's rounded so 4 letter word = 1 usage, 5 letter word = 2 usage)</p><ul><li><p>Azure (and IBM Watson) voices are still 1 to 1.</p></li><li><p>So you could use about 3 times as many characters if you are using Amazon Polly or Google for TTS.</p></li></ul>]]></content:encoded>
+            <category>VoiceWizardPro</category>
+            <category>Discount</category>
+        </item>
+    </channel>
+</rss>
