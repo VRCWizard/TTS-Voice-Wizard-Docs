@@ -4,30 +4,25 @@ sidebar_position: 2
 # Tracker Battery Life
 
 ## How to connect XSOverlay battery life OSC data (DOES NOT SUPPORT QUEST BATTERY LIFE)
- -  Option to show battery life of Controllers (not for quest controllers) and tracker battery life. 
-      -  MUST HAVE XSOVERLAY to use https://store.steampowered.com/app/1173510/XSOverlay/
-      -  Battery Updates appear in the log and can be shown with the Spotify Song Output Text feature
-      -  Media Integration Text Variables
+Option to show battery life of Controllers (not for quest controllers) and tracker battery life. 
+  -  MUST HAVE XSOVERLAY to use https://store.steampowered.com/app/1173510/XSOverlay/
+  -  Battery Updates appear in the log and can be shown with the Spotify Song Output Text feature
+  -  Media Integration Text Variables
 
  ```
 {averageTrackerBattery}  // OSC address: /avatar/parameters/averageTrackerBattery
 {leftControllerBattery}  // OSC address: /avatar/parameters/leftControllerBattery
 {rightControllerBattery}  // OSC address: /avatar/parameters/rightControllerBattery
 {averageControllerBattery}  // OSC address: /avatar/parameters/averageControllerBattery
-
 {TCharge} //  lightning bolt emoji if tracker is charging
 {RCharge}  //  lightning bolt emoji if right controller charging
 {LCharge}  // lightning bolt emoji if left controller charging 
 {AVGCharge}  // lightning bolt emoji if either controller avg charging 
 
-```
-
-
-
-  - Change the port that XSOverlay sends to from VRChat (9000) to TTS Voice Wizard (4026) 
-      - If you don't know what you are doing please don't change TTS Voice Wizard's port from 4026
-      - Most people INCORRECTLY change TTS Voice Wizard's OSC Listener Receive port to 9000, which is what you should not do!
-      - You want to change the external application (HRToVRChat or XSOverlay) to 4026 from 9000 so it sends to TTS Voice Wizard instead of VRChat
+Change the port that XSOverlay sends to from VRChat (9000) to TTS Voice Wizard (4026) 
+  - If you don't know what you are doing please don't change TTS Voice Wizard's port from 4026
+  - Most people INCORRECTLY change TTS Voice Wizard's OSC Listener Receive port to 9000, which is what you should not do!
+  - You want to change the external application (HRToVRChat or XSOverlay) to 4026 from 9000 so it sends to TTS Voice Wizard instead of VRChat
 
 ![image](https://user-images.githubusercontent.com/101527472/193479576-d97fdd43-74a9-4286-9c68-ae6ae12c1bf4.png)
 ![image](https://user-images.githubusercontent.com/101527472/193479591-6b46d2a5-625a-4b37-bfa5-3e0a0ca28d83.png)

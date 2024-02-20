@@ -47,14 +47,23 @@ sidebar_position: 5
 ![image](https://cdn.discordapp.com/attachments/1122474716448444537/1122591889661624441/686b23ca-95c7-476b-18ac-372022b052c6.gif)
 
 ### OSC Debug shows parameters (SOLUTION TO MOST CASES)
-- If the OSC debug shows parameters then the rest of these steps should work for you. 
-- If Chatbox is not working try resetting the OSC folder by clicking the **Reset Config** button from the VRChat radial menu next to **Enable OSC** 
-    - After turning on OSC for the first time you may need to restart VRChat for it to work properly.
-- If you did this and the text still does not appear then you must go to %appdata%..\LocalLow\VRChat and delete the OSC folder 
-    -  Closing VRChat, deleting the OSC folder, then restarting VRChat is the proper order of operations
-- If you did all this and you still see no text in VRChat from the chatbox you may need to restart your computer
-- If you are still having trouble, make a help post in the [Discord Server](https://discord.gg/YjgR9SWPnW)
+1. Make sure OSC is enabled in the VRChat radial menu
 
+2. If you just added something OSC related to your avatar or are trying to use the VRChat chatbox for the first time you may run into this issues. Parameters may appear to be updating in the osc debug but not on your avatar / the chatbox.
+
+3. If OSC is not working try resetting the OSC folder by clicking the Reset Config button from the VRChat radial menu next to Enable OSC
+
+4. After turning on OSC for the first time you may need to restart VRChat for it to work properly so try that next!
+
+5. If you did this and the text still does not appear then you must go to %appdata%..\LocalLow\VRChat and delete the OSC folder
+
+    - Closing VRChat, deleting the OSC folder, then restarting VRChat is the proper order of operations
+6. If you did all this and you still your avatar parameters changing / chatbox appearing you may need to restart your computer
+
+
+7. If you are still having trouble, make a help post in the [TTS Voice Wizard Discord Server](https://discord.gg/YjgR9SWPnW)
+
+Location of VRChat OSC Folder
 <img src="https://user-images.githubusercontent.com/101527472/189431265-c3005a90-8f0b-49b9-88b6-3300f4e4a465.png" width="800" height="400" />
 
 ### OSC Debug Empty

@@ -33,6 +33,7 @@ Some of these methods require some sort of setup. Click the name of the Text-to-
 | [Eleven Labs](/docs/TTSMethods/ElevenLabs)  | No | Realistic TTS Voices accessible via API. You can also use any voices you clone in TTS Voice Wizard. (expensive pricing and privacy issues)  |   10k for free a month :( | [download](https://github.com/VRCWizard/TTS-Voice-Wizard/assets/101527472/0181a77a-5ea7-4243-84ed-4e60325eacd8) |
 | [Uberduck](/docs/TTSMethods/Uberduck)  | No | ~~Extensive catalog of voices of actors from Movies, TV Shows and Cartoons~~ as of 7/12/2023 the Uberduck's catalog of voices has been drastically cut  | N/A | [download](https://github.com/VRCWizard/TTS-Voice-Wizard/assets/101527472/40ad4618-37dd-4737-b5a9-e36d2b046a1f) |
 | [IBM Watson](/docs/TTSMethods/IBMWatson)  | Yes |  Realistic TTS Voices only accessible via VoiceWizardPro | N/A | |
+| [VoiceForge](/docs/TTSMethods/VoiceForge)   | Included by default | Voices accessible for free via VoiceForge API  |  Unlimited  | |
 
 
 ## 🔌 Playing Audio Through Your Microphone

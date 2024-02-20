@@ -25,7 +25,7 @@ sidebar_position: 2
 ![image](https://user-images.githubusercontent.com/101527472/229306182-76ebd63c-fc54-4fdd-b504-2d4e5a9f2fc5.png)
 
 
-8. If you have just added a counter to an existing avatar VRChat will not understand that in terms of OSC. You can attempt using the radial menu and navigating to OSC > Reset OSC Config... although the most sure way to actually reset the OSC config is by deleting the OSC folder as detailed in [OSC Troubleshooting Step 4](https://github.com/VRCWizard/TTS-Voice-Wizard/wiki/OSC-Troubleshooting)
+8. If you have just added a counter to an existing avatar VRChat will not understand that in terms of OSC. You can attempt using the radial menu and navigating to OSC > Reset OSC Config... although the most sure way to actually reset the OSC config is by deleting the OSC folder as detailed in [OSC Troubleshooting Step 4](https://ttsvoicewizard.com/docs/getting-started/TextInVRChat#osc-debug-shows-parameters-solution-to-most-cases)
 
 9. Now you can activate the VRChat Listener, you can enable Activate VRChat Listener on Start to enable the feature automatically each time. (You still have to click the big "*Activate VRChat Listener button** the first time).
 

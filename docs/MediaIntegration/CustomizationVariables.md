@@ -39,6 +39,7 @@ These variables require [enabling your heartrate](/docs/HeartRate/HeartRateWithP
 | ------ | ------|
 | ``{bpm}``| Your current heart rate |
 | ``{bpmStats}``| Shows if your heartrate is going up or down |
+| ``{HREmoji (BPM: 0 E: 💀 )(BPM: 40-59 E: 💔 )``| Where ``BPM`` can be a single value or a range of values (seperated by a dash) and ``E`` which stands for emoji but can be any text you want. You can have as many sections in parentheses as you want |
 
 ### Controller and Tracker Battery Life Variables
 These variables require [OSC Listener Setup](https://github.com/VRCWizard/TTS-Voice-Wizard/wiki/OSC-Listener) and work with XSOverlay or OVR Toolkit
@@ -67,7 +68,7 @@ Try out different unicode characters to customize your output further.
 - The interval that text outputs on it can not be less than 1500 ms (1.5 seconds)
 
 ### Output Continuously (On Update Interval)
-- Have text stay output indefinitly by output it continuously
+- Have text stay indefinitly by outputting it continuously
 - Text stays above head "forever"
 
 ### Stop Output While Paused

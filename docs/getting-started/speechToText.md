@@ -25,5 +25,5 @@ sidebar_position: 2
 | [Vosk](/docs/SpeechRecognitionMethods/Vosk) | Ok recognition quality at the cost of computational resources (CPU and RAM). Can have **higher recognition quality than Web Captioner** depending on model used. (does not work on x86 version) | Unlimited  | yes |
 | [Web Captioner](/docs/SpeechRecognitionMethods/WebCaptioner) | Ok recognition quality using "Web Speech API" through Web Captioner. Only available on Google Chrome. Multi-Language support. | Unlimited  | yes |
 | [Whisper](/docs/SpeechRecognitionMethods/Whisper) | AMAZING recognition quality at the cost of computational resources (GPU and RAM). Can have **higher recognition accuracy than Azure** depending on model used. (Experimental implementation) (does not work on x86 version) | Unlimited | yes |
-| [DeepGram](/docs/SpeechRecognitionMethods/DeepGram) | Similar quality to Azure Recognition | Only available with [Voice Wizard Pro](https://ko-fi.com/ttsvoicewizard/tiers), limits vary with selected tier| no |
+| [DeepGram](/docs/SpeechRecognitionMethods/DeepGram) | Similar quality to Azure Recognition | Only available with [Voice Wizard Pro](https://ko-fi.com/ttsvoicewizard/tiers), limits vary with selected tier| both |
 

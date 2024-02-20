@@ -11,6 +11,8 @@ sidebar_position: 2
 - The quick type feature can be used to quickly focus TTS Voice Wizard for typing and refocus the game afterwards. The default keys are ``Ctrl`` + ``H``.
 - Refocus game on Play
     - Having this enabled makes your previously focused window get refocused after click the play button. If this is disabled the previous focused window will only be automatically refocused after clicking the Quick Type Shortcut hotkey again.
+### Switch Voice Presets Shortcut
+- Used to maneuver between different voice presets in the Text to Speech tab quickly.
 
 
 ## Binding Hotkeys To Other Devices
