@@ -30,10 +30,13 @@ Some of these methods require some sort of setup. Click the name of the Text-to-
 | [TikTok](/docs/TTSMethods/Tiktok)  | Included by default | Voices accessible for free via the TikTok API (made possible by [Weilbyte's Tiktok TTS](https://weilbyte.github.io/tiktok-tts/) endpoint). Best option if you are looking for high fidelity TTS voices to use without limits  |  Unlimited  | [download](https://github.com/VRCWizard/TTS-Voice-Wizard/assets/101527472/8188d9d7-7bf4-4db9-92b3-1743255956ed) |
 | [Moonbase](/docs/TTSMethods/Moonbase)  | Included by default | Moonbase Alpha style voices (renamed from FonixTalk to Moonbase in update v1.0.3, no longer required x86 version of TTS Voice Wizard). Made possible by [whatsecretproject/SharpTalk](https://github.com/whatsecretproject/SharpTalk) a C# wrapper for FonixTalk the successor to DecTalk | Unlimited |[download](https://github.com/VRCWizard/TTS-Voice-Wizard/assets/101527472/43b8a0c8-668d-4b18-bf8b-40b493cb21e2) |
 | [Locally Hosted](docs/TTSMethods/LocallyHosted)  | No | Here is an example of a project that can be used with Local: https://github.com/VRCWizard/TTS-Voice-Wizard/wiki/Glados-TTS . This method works by sending a GET request to http://127.0.0.1:8124/synthesize/ with the string parameter 'text'. If you create compatible projects or models, feel free to share them in the Discord server.|  Unlimited | |
-| [Eleven Labs](/docs/TTSMethods/ElevenLabs)  | No | Realistic TTS Voices accessible via API. You can also use any voices you clone in TTS Voice Wizard. (expensive pricing and privacy issues)  |   10k for free a month :( | [download](https://github.com/VRCWizard/TTS-Voice-Wizard/assets/101527472/0181a77a-5ea7-4243-84ed-4e60325eacd8) |
+| [Eleven Labs](/docs/TTSMethods/ElevenLabs)  | No | Realistic TTS Voices accessible via API. You can also use any voices you clone in TTS Voice Wizard. |   10k for free a month | [download](https://github.com/VRCWizard/TTS-Voice-Wizard/assets/101527472/0181a77a-5ea7-4243-84ed-4e60325eacd8) |
 | [Uberduck](/docs/TTSMethods/Uberduck)  | No | ~~Extensive catalog of voices of actors from Movies, TV Shows and Cartoons~~ as of 7/12/2023 the Uberduck's catalog of voices has been drastically cut  | N/A | [download](https://github.com/VRCWizard/TTS-Voice-Wizard/assets/101527472/40ad4618-37dd-4737-b5a9-e36d2b046a1f) |
 | [IBM Watson](/docs/TTSMethods/IBMWatson)  | Yes |  Realistic TTS Voices only accessible via VoiceWizardPro | N/A | |
 | [VoiceForge](/docs/TTSMethods/VoiceForge)   | Included by default | Voices accessible for free via VoiceForge API  |  Unlimited  | |
+| [Deepgram Aura](/docs/TTSMethods/DeepgramAura)   | Yes | Realistic TTS Voices only accessible via VoiceWizardPro  |  N/A  | |
+| [OpenAI](/docs/TTSMethods/OpenAI)   | Yes | Realistic TTS Voices only accessible via VoiceWizardPro  |  N/A  |  |
+
 
 
 ## 🔌 Playing Audio Through Your Microphone

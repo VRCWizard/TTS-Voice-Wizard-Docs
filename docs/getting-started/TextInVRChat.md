@@ -26,12 +26,21 @@ sidebar_position: 5
 
     
  ## Option 2: KAT
-- Another method, that has text output on your avatar in VRChat is [Killfrenzy96's Avatar Text Displayer](https://github.com/killfrenzy96/KillFrenzyAvatarText/) 
-- **Download KillFrenzy Avatar Text (KAT) latest release (supports 4, 8, or 16 sync parameters currently)**
+Another method, that has text output on your avatar in VRChat is [Killfrenzy96's Avatar Text Displayer](https://github.com/killfrenzy96/KillFrenzyAvatarText/) 
+1. **Download KillFrenzy Avatar Text (KAT) latest release (supports 4, 8, or 16 sync parameters currently)**
     - Make sure to turn on "Send Text to VRChat with KAT" in TTSVoiceWizard Settings > Text Output 
-    - If it isn't working after uploading your avatar, you may have to delete your %appdata%..\LocalLow\VRChat\OSC files when re-uploading an avatar with new parameters
+    - If it isn't working after uploading your avatar, you may have to delete your %appdata%..\LocalLow\VRChat\OSC files when re-uploading an avatar with new parameters. If you are still having issues try the full list of [OSC troubleshooting steps](https://ttsvoicewizard.com/docs/getting-started/TextInVRChat#troubleshooting)
     - If you would like to add more functionality to Killfrenzy Avatar Text. [Frosty's Billboard](https://github.com/Frosty704/Billboard) is a KillFrenzy Avatar Text addon, it adds more functionality to the KAT such as making KAT grabbable and poseable. 
-    ![Frosty Gif](https://user-images.githubusercontent.com/36753686/236354712-a617f28c-75c1-4591-86de-860f6feb9fcc.gif)
+
+2. Follow the setup steps for adding [KAT](https://github.com/killfrenzy96/KillFrenzyAvatarText/) to your avatar
+
+3. Settings in TTS Voice Wizard 
+   - Make sure to turn on "Send Text to VRChat with KAT" in TTSVoiceWizard Settings
+   - Make sure that the "KAT Sync Parameter" matches the amount of sync parameters selected in unity or the KAT will have gaps in the text
+ 
+ ![image](https://github.com/VRCWizard/TTS-Voice-Wizard-Docs/assets/101527472/b233f195-5fe7-4b7d-a361-65fedd63d489)
+   
+![Frosty Gif](https://user-images.githubusercontent.com/36753686/236354712-a617f28c-75c1-4591-86de-860f6feb9fcc.gif)
 
 **You CAN NOT run TTS Voice Wizard with the KatOSCApp because the KatOSCApp constantly refreshes the KAT parameters.**
     
@@ -44,8 +53,7 @@ sidebar_position: 5
 
 2. Check if the OSC Debug is empty
 
-![image](https://cdn.discordapp.com/attachments/1122474716448444537/1122591889661624441/686b23ca-95c7-476b-18ac-372022b052c6.gif)
-
+![gif](https://github.com/VRCWizard/TTS-Voice-Wizard-Docs/assets/101527472/65431639-f4d2-4fb5-80cb-7d2d022b71c6)
 ### OSC Debug shows parameters (SOLUTION TO MOST CASES)
 1. Make sure OSC is enabled in the VRChat radial menu
 
@@ -60,8 +68,9 @@ sidebar_position: 5
     - Closing VRChat, deleting the OSC folder, then restarting VRChat is the proper order of operations
 6. If you did all this and you still your avatar parameters changing / chatbox appearing you may need to restart your computer
 
+7. If you have VRChat running on a [partitioned](https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/hard-drives-and-partitions?view=windows-11#partitions) hard drive then OSC may not function correctly. Try running reininstalling VRChat and the OSC program on a hard drive without partitions. (This infomation comes from 2 cases of users being unable to use OSC with partitioned harddrives.)
 
-7. If you are still having trouble, make a help post in the [TTS Voice Wizard Discord Server](https://discord.gg/YjgR9SWPnW)
+8. If you are still having trouble, make a help post in the [TTS Voice Wizard Discord Server](https://discord.gg/YjgR9SWPnW)
 
 Location of VRChat OSC Folder
 <img src="https://user-images.githubusercontent.com/101527472/189431265-c3005a90-8f0b-49b9-88b6-3300f4e4a465.png" width="800" height="400" />

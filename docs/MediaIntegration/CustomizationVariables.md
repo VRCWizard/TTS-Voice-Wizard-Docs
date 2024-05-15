@@ -16,9 +16,11 @@ You can Customize media text that appears as you wish
 | Variable | Description |
 | ------ | ------|
 |``{spotifySymbol}`` | Uses your KAT emoji sheet. Only for KAT output |
+|``{spotifyVolume}`` | The current volume percent of your music (Spotify API only)|
 | ``{title}``| The title of your current song |
 | ``{artist}``| The artist of your current song |
 | ``{allArtists}``| shows all the artists for the current song |
+| ``{albumArtist}``| shows the album artis for the current song (may not always work for windows media) |
 | ``{album}``| shows the name of the current album |
 | ``{source}``| The source of your current song (Windows Media Mode) |
 | ``{pause}``|  Show a emoji for whether the current song is paused or playing  |
@@ -29,7 +31,7 @@ You can Customize media text that appears as you wish
 | ``{counter(num)}``| ``(num)`` can be a number 1-6 and corresponds to that counter in the VRChat Listener tab|
 | ``{time}``| will only be displayed with shader based output like KAT|
 | ``{nline}``| create newline using the the Unicode 'LINE SEPARATOR' (U+2028) character: `` `` |
-| ``{progressBar E:◯ L:40}``| You can adjust the emoji ``E`` to be any character or string of characters (no spaces) and the length ``L`` to be any int |
+| ``{progressBar E:◯ L:13}``| You can adjust the emoji ``E`` to be any character or string of characters (no spaces) and the length ``L`` to be any int |
 
 
 ### Heart Rate Variables
