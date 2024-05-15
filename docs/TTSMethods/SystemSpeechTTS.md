@@ -6,5 +6,5 @@ This option uses voices from the voice packages you have installed on your windo
 
 Other voice options you can download
 - Japanese "Anime Style" Voices for SAPI5: shigobu/SAPIForVOICEVOX
-- Windows XP Voices (including Microsoft Sam) for SAPI5: Get WinXP_TTS_Voice_v1.3 (file sourced from here)
+- Windows XP Voices (including Microsoft Sam) for SAPI5: Get [WinXP_TTS_Voice_v1.3](https://wink.messengergeek.com/uploads/short-url/8tznlBq2ZpwqOOchX0KpXWwbwZP.exe) (file sourced from [here](https://wink.messengergeek.com/t/guys-i-have-the-sapi5-ttsapp-with-microsoft-sam-downloads/19887))
 

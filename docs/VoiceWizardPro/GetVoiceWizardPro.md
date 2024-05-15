@@ -19,7 +19,7 @@ Your subscription not only enhances your capabilities but also supports future d
 
 - 💪 **Empower Ongoing Development:** Your contribution assists in server upkeep, covers character costs from premium APIs, and fuels future software innovations.
 
-Ready to elevate your TTS game? Dive into VoiceWizardPro now! For detailed insights, explore our [VoiceWizardPro GitHub Wiki page](https://github.com/VRCWizard/TTS-Voice-Wizard/wiki/VoiceWizardPro).
+Ready to elevate your TTS game? Dive into VoiceWizardPro now! For detailed insights, explore our [VoiceWizardPro Docs](https://ttsvoicewizard.com/docs/VoiceWizardPro/GetVoiceWizardPro).
 
 Unlock the power of VoiceWizardPro today! 🚀
 <p align="center">

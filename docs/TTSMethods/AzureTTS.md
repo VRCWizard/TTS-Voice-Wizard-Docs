@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 # Azure (TTS)
 :::tip
-Use a [VoiceWizardPro API Key](/docs/VoiceWizardPro/GetVoiceWizardPro) instead to gain instant access to a variety of voices including those provided by Azure, Amazon Polly, Google Cloud and IBM Watson. This removes the need to create and manage multiple cloud service accounts.
+Use a [VoiceWizardPro API Key](/docs/VoiceWizardPro/GetVoiceWizardPro) instead to gain instant access to a variety of voices including those provided by Azure, Amazon Polly, Google Cloud, IBM Watson, Deepgram Aura and OpenAI. This removes the need to create and manage multiple cloud service accounts.
 :::
 
 
